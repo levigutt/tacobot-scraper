@@ -1,0 +1,3 @@
+```sh
+./script.pl > out
+```
