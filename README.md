@@ -1,6 +1,6 @@
 # tacobot scraper
 
-fetches profiles of bad actors in tf from [tabobot.tf](https://tacobot.tf/leaderboards)
+fetches reported profiles on [tacobot.tf/leaderboards](https://tacobot.tf/leaderboards)
 
 ## usage 
 
