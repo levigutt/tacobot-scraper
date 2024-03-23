@@ -1,5 +1,13 @@
+# tacobot scraper
+
+fetches all profiles of accused cheaters from tacobot.tf
+
+## usage 
+
 ```sh
 ./script.pl > out
 ```
 
-required [Firefox::Marionette](https://metacpan.org/pod/Firefox::Marionette)
+## dependencies
+
+- [Firefox::Marionette](https://metacpan.org/pod/Firefox::Marionette)
